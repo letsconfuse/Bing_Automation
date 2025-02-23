@@ -71,5 +71,5 @@ Feel free to submit **issues** or **pull requests** to improve this script.
 
 ---
 ### 👨‍💻 Author
-[Your Name](https://github.com/letsconfuse)
+[My Profile](https://github.com/letsconfuse)
 
